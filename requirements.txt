@@ -1,0 +1,31 @@
+# --- Core Framework ---
+streamlit==1.31.0
+
+# --- Deep Learning Frameworks ---
+tensorflow==2.14.0
+torch==2.0.1
+torchvision==0.15.1
+
+# --- Computer Vision & Image Processing ---
+opencv-python==4.9.0.80
+Pillow==10.0.0
+scikit-image==0.21.0
+scipy==1.11.2
+
+# --- Data Handling ---
+numpy>=1.24,<2
+pandas==2.2.2
+requests==2.31.0
+
+# --- PDF Report Generation ---
+fpdf2==2.7.8
+
+# --- Segmentation Model (Meta’s SAM) ---
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
+
+# --- Vision-Language Models (BiomedCLIP) ---
+open-clip-torch==2.23.0
+transformers==4.33.0
+
+# --- Miscellaneous / Utils ---
+tqdm==4.66.4

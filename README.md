@@ -24,7 +24,6 @@ Multi-Disease-Detector/
 ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/your-username/multi-disease-detector.git
 cd multi-disease-detector
 Create a virtual environment:
 python -m venv venv

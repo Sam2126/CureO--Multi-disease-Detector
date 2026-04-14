@@ -13,15 +13,6 @@ Machine Learning (Scikit-learn, Pandas, NumPy)
 Streamlit / Flask (Frontend)
 Pickle (Model Serialization)
 
-📂 Project Structure
-Multi-Disease-Detector/
-│── models/                # Trained ML models
-│── data/                  # Dataset files
-│── app.py                 # Main application file
-│── utils.py               # Helper functions
-│── requirements.txt       # Dependencies
-│── README.md              # Project documentation
-⚙️ Installation
 
 Clone the repository:
 cd multi-disease-detector

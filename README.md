@@ -2,7 +2,7 @@
 AI-based multi-disease prediction system using machine learning models to analyze patient health parameters and predict possible diseases.
 
 🚀 Features
-🔍 Predict multiple diseases (e.g., Diabetes, Heart Disease, etc.)
+🔍 Predict multiple diseases
 📊 Uses trained Machine Learning models for accurate predictions
 🧑‍💻 User-friendly interface (Streamlit / Web App)
 ⚡ Fast and real-time results

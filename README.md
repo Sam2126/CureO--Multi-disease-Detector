@@ -33,6 +33,10 @@ Lungs Disease Prediction
 Brain Disease Prediction
 (You can extend this further!)
 
+## Project Flow
+
+<img src="flow_chart.png" width="800">
+
 
 📈 Future Improvements
 Add more diseases
